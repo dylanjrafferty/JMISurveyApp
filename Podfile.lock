@@ -1,0 +1,20 @@
+PODS:
+  - PhotoEditorSDK (9.0.0)
+  - SimplePDF (3.0.0)
+
+DEPENDENCIES:
+  - PhotoEditorSDK
+  - SimplePDF
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PhotoEditorSDK
+    - SimplePDF
+
+SPEC CHECKSUMS:
+  PhotoEditorSDK: 37ed8b628b62b594d1ec9a88ab6488bdae4e5cf6
+  SimplePDF: 903143ede36965886997a5c1bc6b8940b082ba20
+
+PODFILE CHECKSUM: 091920a2661d1c3f91bca9fd2116465774677051
+
+COCOAPODS: 1.5.3
